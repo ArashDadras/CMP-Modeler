@@ -1,0 +1,3 @@
+Sympy:
+1- sympy lambdify cannot handle Product (\prod_{i=1}^{n}) and PI (\pi) - for product simplify() works but needs further examinations
+ 
